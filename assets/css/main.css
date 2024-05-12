@@ -4129,6 +4129,7 @@ input, select, textarea {
 
 		/*SOFT SKILLS*/
 .skill-item {
+	align-items: center;
 	text-align: center;
 	padding: 20px;
 	border: 1px solid #ccc;
