@@ -3270,6 +3270,14 @@ input, select, textarea {
 			background-color: #953d75;
 		}
 
+		.wrapper.style4 {
+			background-color: #d11194;
+		}
+
+		.wrapper.style4-alt  {
+			background-color: #ec0fa6;
+		}
+
 		.wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
