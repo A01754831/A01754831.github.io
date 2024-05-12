@@ -2560,11 +2560,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style4 .icon.major:before {
-					color: #d11194;
+					background-color: #10a0c4;
 				}
-
-				.wrapper.style4-alt .icon.major:before {
-					color: #ec0fa6;
+		
+				.wrapper.style4-alt  .icon.major:before {
+					background-color: #0ea6cc;
 				}
 /* Image */
 
@@ -3271,11 +3271,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #d11194;
+			background-color: #10a0c4;
 		}
 
 		.wrapper.style4-alt  {
-			background-color: #ec0fa6;
+			background-color: #0ea6cc;
 		}
 
 		.wrapper.fullscreen {
