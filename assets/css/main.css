@@ -4123,6 +4123,11 @@ input, select, textarea {
 .skill-item h3 {
 	margin-bottom: 10px;
 }
+
+.skill-item creditos {
+	margin-bottom: 10px;
+	text-align:right;
+}
 		
 .skill-item img {
 	display: block;
