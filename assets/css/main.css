@@ -4110,3 +4110,21 @@ input, select, textarea {
 		font-size: 18px; }
 	.progress-container .aos-animate {
 		transform: scaleX(1); }
+
+
+		/*SOFT SKILLS*/
+.skill-item {
+	text-align: center;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
+		
+.skill-item h3 {
+	margin-bottom: 10px;
+}
+		
+.skill-item img {
+	display: block;
+	margin: 0 auto;
+}
