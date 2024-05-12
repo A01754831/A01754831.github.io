@@ -4025,6 +4025,21 @@ input, select, textarea {
 	transition-delay: 0.15s; }
   
 
+/* Professional Skills Style */
+.progress-container {
+	margin-bottom: 20px;
+	font-size: 18px; }
+	.progress-container .progress-bar {
+	  height: 5px;
+	  transform: scaleX(0);
+	  transition: transform 2s ease-in-out;
+	  transform-origin: 0% 0%; }
+	.progress-container .progress {
+	  height: 5px;
+	  font-size: 18px; }
+	.progress-container .aos-animate {
+	  transform: scaleX(1); }
+
 	  /*           SKILLS PROGRESS             */
 
 	.progress-container {
